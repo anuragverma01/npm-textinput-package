@@ -1,0 +1,32 @@
+{
+  "name": "reactnative-custom-textinput-v1.2",
+  "version": "1.0.1",
+  "description": "Custom TextInput for React-Native",
+  "main": "index.tsx",
+  "keywords": [
+    "npm-package",
+    "Custom",
+    "react-native",
+    "typescript",
+    "Custom TextInput",
+    "ReactNative CustomTextInput",
+    "TextInput",
+    "react",
+    "validation",
+    "iso",
+    "android"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.6",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.33"
+  }
+}
